@@ -1,0 +1,17 @@
+# Virtualenv
+env/
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+__pycache__/
+*.so
+*.o
+*.dll
+
+# Others
+*.log
+*.pot
+*.pyo
+*.orig
+*~
+*.swp
